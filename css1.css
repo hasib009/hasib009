@@ -1,0 +1,27 @@
+<style>
+    h1{
+        color: blue; background-color: rgb(58, 90, 11);}
+
+p{
+ color: dodgerblue;bg width: 4in;
+
+
+}
+#part{
+ color: cadetblue; 
+}
+.new{
+ color: green; 
+}
+.add{
+color: darkslateblue;
+}
+.blog{
+border: darkred solid 10px;
+ border-radius: 30px;
+margin-top: 10px;
+ padding-left:  20px;
+  width: 30%;
+ 
+}
+</style>
